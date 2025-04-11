@@ -1,0 +1,12 @@
+
+[@Preview
+@Composable
+fun SimpleComposablePreview() {
+    SimpleComposable()
+}
+<@Composable
+fun SimpleComposable() {
+    Text("Hello World")
+}
+//
+"https://developer.android.com/studio/preview/gemini?authuser=1#sharing-code
